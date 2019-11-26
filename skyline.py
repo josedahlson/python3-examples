@@ -1,4 +1,6 @@
-# Define a function that takes in a string, and returns a matching string where every even letter is uppercase, and every odd letter is lowercase.
+# Define a function that takes in a string, and returns a matching string where every even letter is uppercase,
+# and every odd letter is lowercase.
+
 # Testcase: "Hello" -> "hElLo"
 
 def myfunc(mystring):
